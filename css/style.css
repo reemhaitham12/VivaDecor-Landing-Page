@@ -1,0 +1,69 @@
+body{
+    font-family: "Inter", sans-serif;
+}
+
+
+.p-text{
+    line-height: 42.12px;
+    font-size: 24px;
+    font-weight: 500;
+    color:#545454;
+}
+.h1-text{
+    padding: 10px;
+    font-weight: 500;
+    color: #1F1F1F;
+    font-size: 313px;
+    line-height: 84.72px;
+}
+.card-text h3{
+    font-weight: 400;
+    font-size: 70px;
+    text-align: center;
+    line-height: 84.72px;
+}
+.card-text p{
+    font-weight: 400;
+    font-size: 22px;
+    align-items: center;
+    
+}
+
+.line-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.line {
+    height: 2px; /* Adjust thickness of the line */
+    background-color: #000; /* Line color */
+}
+.text {
+    margin: 0 10px; /* Space around the text */
+    white-space: nowrap; /* Prevent text from wrapping */
+}
+.line-10 {
+    flex: 0 0 8%; /* Flex basis of 10% for the line */
+}
+
+.package h3{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36.31px;
+}
+.package p{
+    font-size: 20px;
+    line-height: 36.34px;
+
+}
+
+.text-design h1{
+    font-weight: 400;
+    font-size: 58px;
+}
+.text-design p{
+    font-weight: 500;
+    font-size: 24px;
+    color: #545454;
+    padding-top: 12px;
+}
